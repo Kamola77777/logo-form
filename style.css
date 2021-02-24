@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+}
+body{
+    background-color: rgb(55, 238, 146);
+}
+#nav{
+    text-align: center;
+    border-style: solid;
+    padding: 20px;
+}
+#logo{
+ border-style: solid;
+color: white;
+background-color: black;
+padding: 10px;
+
+
+}
+#log{
+    border-style: solid;
+    height: 70px;
+    background-color: rgb(136, 125, 125);
+    padding: 10px;
+}
+.logos{
+    margin: 20px;
+    width: 100px;
+    border-radius: 10px;
+
+}
+#header{
+    margin: 10px 30px;
+    border-style: solid;
+    font-size: 20px;
+    padding: 20px;
+    background-color: grey;
+}
+#section{
+    display: inline;
+}
+.bn{
+    margin: 100px;
+    width: 150px;   
+    height: 400px;
+    font-size: 30px;
+    background-color: grey;
+}
+.btn{
+    margin:100px;
+    width: 500px;
+    height: 400px;
+    font-size: 30px;
+    background-color: grey;
+}
+#foot{
+    border-style: solid;
+    padding: 30px;
+    margin: 30px;
+    background-color: grey;
+    
+}
+#footer{
+    font-size: 20px;
+    text-align: center;
+}

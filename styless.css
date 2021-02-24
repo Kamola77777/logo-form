@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+}
+body{
+    background-image: url(https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/emotions-2875354_1920-blende12-pixabay-768x447.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.button{
+    margin: 20px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(77, 224, 77);
+
+}
+#head{
+    border-style: solid;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: grey;
+}
+#header{
+    margin: 10px;
+    border-style: solid;
+    padding: 20px;
+    background-color: grey;
+}
+#intro{
+    margin: 10px;
+    border-style: solid;
+    padding: 20px;
+    background-color: grey;
+}
+.boxes{
+    margin: 50px;
+    width: 250px;
+    height: 400px;
+    font-size: 30px;
+    background-color: grey;
+}
+footer{
+    border-style: solid;
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+    background-color: grey;
+}
+#ft{
+    font-size: 20px;
+}
+.active.button{
+;
+}
